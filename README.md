@@ -243,8 +243,8 @@ AidGrid addresses the critical challenge of blood shortage by creating a digital
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/UsaaryanByte07/aid-grid-platform.git
-   cd aid-grid-platform
+   git clone https://github.com/amishiverma/SOS-Blood-Donation-Platform.git
+   cd SOS-Blood-Donation-Platform
    ```
 
 2. **Install frontend dependencies**
@@ -429,17 +429,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support & Contact
 
 ### 🐛 Issue Reporting
-- **GitHub Issues**: [Report bugs and feature requests](https://github.com/UsaaryanByte07/aid-grid-platform/issues)
+- **GitHub Issues**: [Report bugs and feature requests](https://github.com/amishiverma/SOS-Blood-Donation-Platform/issues)
 - **Bug Reports**: Please include steps to reproduce, expected vs actual behavior
 - **Feature Requests**: Describe the feature and its potential impact
 
 ### 💬 Community Support
-- **Discussions**: [GitHub Discussions](https://github.com/UsaaryanByte07/aid-grid-platform/discussions)
+- **Discussions**: [GitHub Discussions](https://github.com/amishiverma/SOS-Blood-Donation-Platform/discussions)
 - **Questions**: Use the Q&A section for technical questions
 - **Ideas**: Share suggestions for platform improvements
 
 ### � Direct Contact
-- **Developer**: [GitHub Profile](https://github.com/UsaaryanByte07)
+- **Developer**: [GitHub Profile](https://github.com/amishiverma)
 - **Team**: Team Syntax Slayer members via GitHub profiles
 - **Response Time**: Usually within 24-48 hours
 
@@ -469,8 +469,8 @@ If AidGrid has helped your community or organization:
 
 **Team Syntax Slayer - Ignite Hackathon**
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/UsaaryanByte07/aid-grid-platform)
-[![Save Lives](https://img.shields.io/badge/Save-Lives-brightgreen.svg)](https://github.com/UsaaryanByte07/aid-grid-platform)
-[![Donate Blood](https://img.shields.io/badge/Donate-Blood-ff6b6b.svg)](https://github.com/UsaaryanByte07/aid-grid-platform)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/amishiverma/SOS-Blood-Donation-Platform)
+[![Save Lives](https://img.shields.io/badge/Save-Lives-brightgreen.svg)](https://github.com/amishiverma/SOS-Blood-Donation-Platform)
+[![Donate Blood](https://img.shields.io/badge/Donate-Blood-ff6b6b.svg)](https://github.com/amishiverma/SOS-Blood-Donation-Platform)
 
 </div>
